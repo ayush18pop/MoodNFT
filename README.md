@@ -1,54 +1,202 @@
-Happy SVG:
-PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMjAgMjAiIHhtbG5z
-PSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICNm
-MGYwZjA7IGltYWdlLXJlbmRlcmluZzogcGl4ZWxhdGVkOyI+DQogIDwhLS0gDQogICAgUGl4ZWwg
-QXJ0IFNtaWxpbmcgTWFuDQogICAgRWFjaCByZWN0IHJlcHJlc2VudHMgb25lICJwaXhlbCIgb24g
-YSAyMHgyMCBncmlkLg0KICAtLT4NCg0KICA8IS0tIEhhaXIgKERhcmsgQnJvd246ICM0YTJhMTUp
-IC0tPg0KICA8cmVjdCB4PSI2IiB5PSIyIiB3aWR0aD0iOCIgaGVpZ2h0PSIxIiBmaWxsPSIjNGEy
-YTE1Ii8+DQogIDxyZWN0IHg9IjUiIHk9IjMiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxIiBmaWxsPSIj
-NGEyYTE1Ii8+DQogIDxyZWN0IHg9IjUiIHk9IjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZpbGw9
-IiM0YTJhMTUiLz4NCiAgPHJlY3QgeD0iMTQiIHk9IjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZp
-bGw9IiM0YTJhMTUiLz4NCiAgDQogIDwhLS0gRmFjZSAoU2tpbiBUb25lOiAjZjJkMmI2KSAtLT4N
-CiAgPHJlY3QgeD0iNiIgeT0iNCIgd2lkdGg9IjgiIGhlaWdodD0iNiIgZmlsbD0iI2YyZDJiNiIv
-Pg0KICA8cmVjdCB4PSI1IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSI0IiBmaWxsPSIjZjJkMmI2
-Ii8+DQogIDxyZWN0IHg9IjE0IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSI0IiBmaWxsPSIjZjJk
-MmI2Ii8+DQoNCiAgPCEtLSBFeWVzIChCbGFjazogIzAwMDAwMCkgLS0+DQogIDxyZWN0IHg9Ijgi
-IHk9IjYiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMDAwMDAiLz4NCiAgPHJlY3QgeD0i
-MTEiIHk9IjYiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMDAwMDAiLz4NCg0KICA8IS0t
-IFNtaWxlIChCbGFjazogIzAwMDAwMCkgLS0+DQogIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI0
-IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMDAwMDAiLz4NCiAgPHJlY3QgeD0iNyIgeT0iNyIgd2lkdGg9
-IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwMDAwMCIvPg0KICA8cmVjdCB4PSIxMiIgeT0iNyIgd2lk
-dGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwMDAwMCIvPg0KDQogIDwhLS0gU2hpcnQgKEJsdWU6
-ICMzYTVjYzQpIC0tPg0KICA8cmVjdCB4PSI1IiB5PSIxMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjQi
-IGZpbGw9IiMzYTVjYzQiLz4NCiAgPHJlY3QgeD0iNCIgeT0iMTEiIHdpZHRoPSIxIiBoZWlnaHQ9
-IjMiIGZpbGw9IiMzYTVjYzQiLz4NCiAgPHJlY3QgeD0iMTUiIHk9IjExIiB3aWR0aD0iMSIgaGVp
-Z2h0PSIzIiBmaWxsPSIjM2E1Y2M0Ii8+DQoNCiAgPCEtLSBOZWNrIC0tPg0KICA8cmVjdCB4PSI5
-IiB5PSIxMCIgd2lkdGg9IjIiIGhlaWdodD0iMSIgZmlsbD0iI2YyZDJiNiIvPg0KDQo8L3N2Zz4N
-Cg==
+# MoodNFT 🎭
 
-Sad SVG:
-PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMjAgMjAiIHhtbG5z
-PSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICNm
-MGYwZjA7IGltYWdlLXJlbmRlcmluZzogcGl4ZWxhdGVkOyI+DQogIDwhLS0gDQogICAgUGl4ZWwg
-QXJ0IFNhZCBNYW4NCiAgICBFYWNoIHJlY3QgcmVwcmVzZW50cyBvbmUgInBpeGVsIiBvbiBhIDIw
-eDIwIGdyaWQuDQogIC0tPg0KDQogIDwhLS0gSGFpciAoRGFyayBCcm93bjogIzRhMmExNSkgLS0+
-DQogIDxyZWN0IHg9IjYiIHk9IjIiIHdpZHRoPSI4IiBoZWlnaHQ9IjEiIGZpbGw9IiM0YTJhMTUi
-Lz4NCiAgPHJlY3QgeD0iNSIgeT0iMyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEiIGZpbGw9IiM0YTJh
-MTUiLz4NCiAgPHJlY3QgeD0iNSIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMiIgZmlsbD0iIzRh
-MmExNSIvPg0KICA8cmVjdCB4PSIxNCIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMiIgZmlsbD0i
-IzRhMmExNSIvPg0KICANCiAgPCEtLSBGYWNlIChTa2luIFRvbmU6ICNmMmQyYjYpIC0tPg0KICA8
-cmVjdCB4PSI2IiB5PSI0IiB3aWR0aD0iOCIgaGVpZ2h0PSI2IiBmaWxsPSIjZjJkMmI2Ii8+DQog
-IDxyZWN0IHg9IjUiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjQiIGZpbGw9IiNmMmQyYjYiLz4N
-CiAgPHJlY3QgeD0iMTQiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjQiIGZpbGw9IiNmMmQyYjYi
-Lz4NCg0KICA8IS0tIEV5ZXMgKEJsYWNrOiAjMDAwMDAwKSAtLT4NCiAgPHJlY3QgeD0iOCIgeT0i
-NiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwMDAwMCIvPg0KICA8cmVjdCB4PSIxMSIg
-eT0iNiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwMDAwMCIvPg0KDQogIDwhLS0gRnJv
-d24gKEJsYWNrOiAjMDAwMDAwKSAtLT4NCiAgPHJlY3QgeD0iOCIgeT0iOCIgd2lkdGg9IjQiIGhl
-aWdodD0iMSIgZmlsbD0iIzAwMDAwMCIvPg0KICA8cmVjdCB4PSI3IiB5PSI5IiB3aWR0aD0iMSIg
-aGVpZ2h0PSIxIiBmaWxsPSIjMDAwMDAwIi8+DQogIDxyZWN0IHg9IjEyIiB5PSI5IiB3aWR0aD0i
-MSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDAwMDAwIi8+DQoNCiAgPCEtLSBTaGlydCAoQmx1ZTogIzNh
-NWNjNCkgLS0+DQogIDxyZWN0IHg9IjUiIHk9IjEwIiB3aWR0aD0iMTAiIGhlaWdodD0iNCIgZmls
-bD0iIzNhNWNjNCIvPg0KICA8cmVjdCB4PSI0IiB5PSIxMSIgd2lkdGg9IjEiIGhlaWdodD0iMyIg
-ZmlsbD0iIzNhNWNjNCIvPg0KICA8cmVjdCB4PSIxNSIgeT0iMTEiIHdpZHRoPSIxIiBoZWlnaHQ9
-IjMiIGZpbGw9IiMzYTVjYzQiLz4NCg0KICA8IS0tIE5lY2sgLS0+DQogIDxyZWN0IHg9IjkiIHk9
-IjEwIiB3aWR0aD0iMiIgaGVpZ2h0PSIxIiBmaWxsPSIjZjJkMmI2Ii8+DQoNCjwvc3ZnPg0K
+A dynamic NFT (dNFT) project that demonstrates advanced smart contract development using Foundry. MoodNFT creates unique tokens that can change their visual representation based on their current "mood" state - switching between happy and sad pixel art characters.
+
+## 🌟 Project Overview
+
+MoodNFT is an ERC-721 compliant NFT collection where each token can exist in one of two states:
+
+- **Happy** 😊 - Displays a smiling pixel art character
+- **Sad** 😢 - Displays a frowning pixel art character
+
+The unique feature of this project is that token holders can flip the mood of their NFTs, dynamically changing the token's metadata and visual appearance.
+
+## 🚀 Features
+
+- **Dynamic NFT Metadata**: Token metadata changes based on mood state
+- **On-chain SVG Storage**: Images are stored as base64-encoded SVG data on-chain
+- **Mood Flipping**: Token owners and approved operators can change NFT moods
+- **Pixel Art Design**: Retro-style 20x20 pixel art characters
+- **Gas Optimized**: Efficient storage and retrieval of mood states
+- **Authorization Controls**: Only authorized users can modify NFT moods
+
+## 🛠️ Technology Stack
+
+- **Foundry**: Smart contract development framework
+- **Solidity ^0.8.18**: Smart contract programming language
+- **OpenZeppelin v5**: Industry-standard smart contract libraries
+- **Base64 Encoding**: For on-chain SVG storage
+- **Forge**: Testing and deployment framework
+- **SVG**: Scalable vector graphics for NFT images
+
+## 📁 Project Structure
+
+```
+foundry-nft/
+├── src/
+│   ├── MoodNft.sol          # Main dynamic NFT contract
+│   └── BasicNFT.sol         # Basic NFT implementation for reference
+├── script/
+│   ├── DeployMoodNft.s.sol  # Deployment script
+│   └── Interactions.s.sol   # Contract interaction scripts
+├── test/
+│   └── unit/
+│       └── MoodNftTest.t.sol # Comprehensive unit tests
+├── lib/                     # Dependencies
+│   ├── forge-std/           # Foundry standard library
+│   ├── openzeppelin-contracts/ # OpenZeppelin contracts
+│   └── foundry-devops/      # DevOps utilities
+└── public/
+    ├── happy.svg            # Happy mood SVG file
+    └── sad.svg              # Sad mood SVG file
+```
+
+## 📋 Smart Contract Details
+
+### MoodNft.sol
+
+The main contract inheriting from OpenZeppelin's ERC721:
+
+**Key Functions:**
+
+- `mintNft()`: Creates a new NFT (starts in HAPPY mood)
+- `flipMood(uint256 tokenId)`: Changes NFT mood between HAPPY/SAD
+- `tokenURI(uint256 tokenId)`: Returns dynamic metadata based on current mood
+
+**Storage:**
+
+- `s_tokenCounter`: Tracks total number of minted tokens
+- `s_tokenIdToMood`: Maps token IDs to their current mood
+- `s_happySvgURI` & `s_sadSvgURI`: Base64-encoded SVG data
+
+**Authorization:**
+Uses OpenZeppelin v5's `_isAuthorized()` function to ensure only token owners or approved operators can flip moods.
+
+## 🎨 NFT Metadata Structure
+
+```json
+{
+  "name": "MoodNFT",
+  "description": "A mood NFT",
+  "attributes": [
+    {
+      "trait_type": "moodiness",
+      "value": "100"
+    }
+  ],
+  "image": "data:image/svg+xml;base64,..."
+}
+```
+
+## 🧪 Testing
+
+Comprehensive test suite covers:
+
+- NFT minting functionality
+- Mood flipping mechanics
+- Authorization controls
+- Metadata generation
+- SVG URI validation
+
+Run tests:
+
+```bash
+forge test
+```
+
+Run tests with gas reporting:
+
+```bash
+forge test --gas-report
+```
+
+## 🚀 Deployment
+
+### Prerequisites
+
+- [Foundry](https://book.getfoundry.sh/getting-started/installation) installed
+- Ethereum wallet with testnet ETH
+
+### Deploy to Local Network
+
+```bash
+# Start local Anvil node
+anvil
+
+# Deploy contract
+forge script script/DeployMoodNft.s.sol --rpc-url http://localhost:8545 --private-key $PRIVATE_KEY --broadcast
+```
+
+### Deploy to Testnet
+
+```bash
+forge script script/DeployMoodNft.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY
+```
+
+## 🔧 Usage Examples
+
+### Minting an NFT
+
+```solidity
+// Mint a new NFT (starts as HAPPY)
+moodNft.mintNft();
+```
+
+### Flipping Mood
+
+```solidity
+// Change NFT mood from HAPPY to SAD (or vice versa)
+moodNft.flipMood(tokenId);
+```
+
+### Viewing Token Metadata
+
+```solidity
+// Get current token metadata
+string memory metadata = moodNft.tokenURI(tokenId);
+```
+
+## 🛡️ Security Features
+
+- **Access Control**: Only token owners and approved operators can flip moods
+- **Input Validation**: Proper checks for token existence and ownership
+- **Reentrancy Protection**: Uses OpenZeppelin's battle-tested contracts
+- **Gas Optimization**: Efficient storage patterns and function calls
+
+## 🔍 Gas Usage
+
+Approximate gas costs (may vary):
+
+- Minting: ~80,000 gas
+- Mood Flipping: ~30,000 gas
+- Token URI Generation: View function (no gas cost)
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- [OpenZeppelin](https://openzeppelin.com/) for secure smart contract libraries
+- [Foundry](https://book.getfoundry.sh/) for the excellent development framework
+- [Patrick Collins](https://github.com/PatrickAlphaC) for educational inspiration
+- The Ethereum community for continuous innovation
+
+## 📚 Learning Resources
+
+- [Foundry Book](https://book.getfoundry.sh/)
+- [OpenZeppelin Documentation](https://docs.openzeppelin.com/)
+- [ERC-721 Standard](https://eips.ethereum.org/EIPS/eip-721)
+- [Dynamic NFTs](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
+
+---
+
+**Built with ❤️ using Foundry and OpenZeppelin**
